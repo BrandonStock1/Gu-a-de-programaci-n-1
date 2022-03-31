@@ -16,9 +16,9 @@ public class Ejercicio2 : MonoBehaviour
         int num2 = 5;
         int res;
         res = num1 + num2;
-        Debug.Log("El resultado de sumar el " + num1 + " y " + num2 + " ,es " + res);
+        Debug.Log("El resultado de sumar el " + num1 + " y " + num2 + ", es " + res);
         res = num1 * num2;
-        Debug.Log("El resultado de multiplicar el " + num1 + " y " + num2 + " ,es " + res);
+        Debug.Log("El resultado de multiplicar el " + num1 + " y " + num2 + ", es " + res);
 
     }
 
